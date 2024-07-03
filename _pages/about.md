@@ -48,7 +48,7 @@ Now I study at the School of Data Science, the Chinese University of Hong Kong, 
 </div>
 </div>
 # 2023
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guiliang Liu, Pascal Poupart, Zhiqiang Xu
@@ -69,21 +69,21 @@ Now I study at the School of Data Science, the Chinese University of Hong Kong, 
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+# 🏅 Honor
+- *2023.08-present* Graduate Entrance Scholarship  
+- *2022-10* Gold Prize of China Internet Plus Innovation and Entrepreneurship National Competition  
+- *2020-2022* Merit Student
+- *2020-2022* School-level Scholarship
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+# 🏛️ Teaching
+- *2023.09-2024.12*, DDA4210 advanced machine learning
+- *2024.02-2024.05*, CSC1004 Java Program Project
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+# 💻 Intern
+- *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen, research assistant
+- *2022.11 - 2023.02*, Heisenzhidong, Beijing, Algorithm Intern
+- *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing, research assistant
