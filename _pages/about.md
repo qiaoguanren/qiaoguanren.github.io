@@ -18,9 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Now I study at the School of Data Science, the Chinese University of Hong Kong, Shenzhen ((CUHK-SZ)), as a Ph.D. student under the supervision of Prof <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'>Guiliang Liu</a>.
 
-Working Experience and Education: I received my Bachelor's degree at the School of Computing Science and Technology, the Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University, advised by <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
+**Working Experience and Education**: I received my Bachelor's degree at the School of Computing Science and Technology, the Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University, advised by <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
 
-Research Interests: Reinforcement Learning (RL) and the related topics, including, Inverse Constrained RL, Multi-agent RL, Safe RL. I have also studied applications of Graph Neural Networks and Autonomous Driving.
+**Research Interests**: Reinforcement Learning and the related topics,
+including: 
+            *Inverse Constrained Reinforcement Learning 
+            *Multi-agent Reinforcement Learning
+            *Safe Reinforcement Learning. 
+            *Applications of Graph Neural Networks and Autonomous Driving.
 
 <span class='anchor' id='-xl'></span>
 
