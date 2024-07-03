@@ -42,7 +42,8 @@ Now I study at the School of Data Science, the Chinese University of Hong Kong, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Guanren Qiao**, Guorui Quan, Rongxiao Qu, Guiliang Liu. Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model. (*ECCV* 2024) 
+-	**Guanren Qiao**, Guorui Quan, Rongxiao Qu, Guiliang Liu.
+-	Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model. (*ECCV* 2024) 
 [[paper (coming soon)]]() [[code (coming soon)]]()
 
 </div>
@@ -51,9 +52,9 @@ Now I study at the School of Data Science, the Chinese University of Hong Kong, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Guanren Qiao`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
-
+-	**Guanren Qiao**, Guiliang Liu, Pascal Poupart, Zhiqiang Xu.
+-	Multi-Modal Inverse Constrained Reinforcement Learning from a Mixture of Demonstrations. (*NeurIPS* 2023) 
+[[paper]](https://openreview.net/pdf?id=4mPiqh4pLb) [[code]](https://github.com/qiaoguanren/Multi-Modal-Inverse-Constrained-Reinforcement-Learning)
 </div>
 </div>
 
