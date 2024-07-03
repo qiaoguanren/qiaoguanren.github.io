@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Now I study at the School of Data Science, the Chinese University of Hong Kong, Shenzhen (CUHK-SZ), as a Ph.D. student under the supervision of Prof <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'>Guiliang Liu</a>.
 
-**Working Experience and Education**: I received my Bachelor's degree at the School of Computing Science and Technology, the Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University, advised by <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
+**Working Experience and Education**: I received my Bachelor's degree at the School of Computing Science and Technology, the Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University, advised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Inverse Constrained Reinforcement Learning<br />
@@ -39,7 +39,7 @@ Now I study at the School of Data Science, the Chinese University of Hong Kong, 
 
 # 2024
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guorui Quan, Rongxiao Qu, Guiliang Liu. Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model. (*ECCV* 2024) 
