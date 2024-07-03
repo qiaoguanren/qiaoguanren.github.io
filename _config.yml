@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "乔冠仁"
-description              : "博士在读"
+title                    : "Guanren Qiao (乔冠仁)"
+description              : "PhD student"
 repository               : "qiaoguanren/qiaoguanren.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "乔冠仁"
+  name             : "Guanren Qiao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "香港中文大学（深圳）"
-  location         : "中国 深圳"
+  bio              : "The Chinese University of Hong Kong, shenzhen"
+  location         : "China shenzhen"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8JIeh7wAAAAJ&hl=zh-CN"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : # "https://orcid.org/0000-0001-9658-209X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
