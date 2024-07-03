@@ -59,7 +59,7 @@ Welcome to communicate and follow!
 </div>
 </div>
 # 2022
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2022</div><img src='images/BIBM2022.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2022</div><img src='images/BIBM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Ruiqi Jia, Wentao Xie, Baole Wei, **Guanren Qiao**, Zonglin Yang, Xiaoqing Lyu, Zhi Tang
@@ -73,7 +73,7 @@ Welcome to communicate and follow!
 
 # 🏅 Honor
 - *2022.12*   Graduate Entrance Scholarship  
-- *2022-10*   Gold Prize of China Internet Plus Innovation and Entrepreneurship National Competition  
+- *2022-10*   Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition  
 - *2020-2022*   Merit Student
 - *2020-2022*   School-level Scholarship
 
