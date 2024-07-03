@@ -16,24 +16,22 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Now I study at the School of Data Science, the Chinese University of Hong Kong, Shenzhen ((CUHK-SZ)), as a Ph.D. student under the supervision of Prof <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'>Guiliang Liu</a>.
+Now I study at the School of Data Science, the Chinese University of Hong Kong, Shenzhen (CUHK-SZ), as a Ph.D. student under the supervision of Prof <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'>Guiliang Liu</a>.
 
 **Working Experience and Education**: I received my Bachelor's degree at the School of Computing Science and Technology, the Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University, advised by <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
 
-**Research Interests**: Reinforcement Learning and the related topics,
-including: 
-        <ul>
-        <li>Inverse Constrained Reinforcement Learning</li>
-        <li>Multi-agent Reinforcement Learning</li>
-        <li>Safe Reinforcement Learning</li>
-        <li>Applications of Graph Neural Networks and Autonomous Driving</li>
-        </ul>
+**Research Interests**: Reinforcement Learning and the related topics, including: <br />
+        ● Inverse Constrained Reinforcement Learning<br />
+        ● Multi-agent Reinforcement Learning<br />
+        ● Safe Reinforcement Learning<br />
+        ● Applications of Graph Neural Networks and Autonomous Driving<br />
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+# 🔥 News
+● 2024.07: one paper accepted by ECCV 2024.
+● 2023.09: one paper accepted by Neurips 2023.
+● 2023.08: I am a Ph.D. student at the Chinese University of Hong Kong, Shenzhen.
  
 <span class='anchor' id='-lwzl'></span>
 
