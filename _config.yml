@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guanren Qiao"
   avatar           : "images/me.jpg"
-  bio              : "The Chinese University of Hong Kong, shenzhen"
+  bio              : "School of Data Science, The Chinese University of Hong Kong, shenzhen"
   location         : "China shenzhen"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
