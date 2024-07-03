@@ -24,7 +24,9 @@ Now I study at the School of Data Science, the Chinese University of Hong Kong, 
         ● Inverse Constrained Reinforcement Learning<br />
         ● Multi-agent Reinforcement Learning<br />
         ● Safe Reinforcement Learning<br />
-        ● Applications of Graph Neural Networks and Autonomous Driving<br />
+        ● Applications of AI agent, Graph Neural Network, and Autonomous Driving<br />
+
+Welcome to communicate and follow!
 
 <span class='anchor' id='-xl'></span>
 
