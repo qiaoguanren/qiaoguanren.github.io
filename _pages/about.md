@@ -45,7 +45,7 @@ Welcome to communicate and follow!
 
 -	**Guanren Qiao**, Guorui Quan, Rongxiao Qu, Guiliang Liu
 -	Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model (*ECCV* 2024) 
-[[paper (coming soon)]]() [[code (coming soon)]]()
+- [[paper (coming soon)]]() [[code (coming soon)]]()
 
 </div>
 </div>
@@ -55,7 +55,7 @@ Welcome to communicate and follow!
 
 -	**Guanren Qiao**, Guiliang Liu, Pascal Poupart, Zhiqiang Xu
 -	Multi-Modal Inverse Constrained Reinforcement Learning from a Mixture of Demonstrations (*NeurIPS* 2023) 
-[[paper]](https://openreview.net/pdf?id=4mPiqh4pLb) [[code]](https://github.com/qiaoguanren/Multi-Modal-Inverse-Constrained-Reinforcement-Learning)
+- [[paper]](https://openreview.net/pdf?id=4mPiqh4pLb) [[code]](https://github.com/qiaoguanren/Multi-Modal-Inverse-Constrained-Reinforcement-Learning)
 </div>
 </div>
 # 2022
@@ -64,7 +64,7 @@ Welcome to communicate and follow!
 
 -	Ruiqi Jia, Wentao Xie, Baole Wei, **Guanren Qiao**, Zonglin Yang, Xiaoqing Lyu, Zhi Tang
 -	Molecular Formula Image Segmentation with Shape Constraint Loss and Data Augmentation (*BIBM* 2022)
-[[paper]](https://ieeexplore.ieee.org/abstract/document/9995506/)
+- [[paper]](https://ieeexplore.ieee.org/abstract/document/9995506/)
 </div>
 </div>
 
