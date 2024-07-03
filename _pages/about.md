@@ -70,20 +70,20 @@ Now I study at the School of Data Science, the Chinese University of Hong Kong, 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honor
-- *2023.08-present* Graduate Entrance Scholarship  
-- *2022-10* Gold Prize of China Internet Plus Innovation and Entrepreneurship National Competition  
-- *2020-2022* Merit Student
-- *2020-2022* School-level Scholarship
+- *2022.12*   Graduate Entrance Scholarship  
+- *2022-10*   Gold Prize of China Internet Plus Innovation and Entrepreneurship National Competition  
+- *2020-2022*   Merit Student
+- *2020-2022*   School-level Scholarship
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Teaching
-- *2023.09-2024.12*, DDA4210 advanced machine learning
-- *2024.02-2024.05*, CSC1004 Java Program Project
+- *2023.09-2023.12*,   DDA4210  Advanced machine learning
+- *2024.02-2024.05*,   CSC1004  Java Program Project
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Intern
-- *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen, research assistant
-- *2022.11 - 2023.02*, Heisenzhidong, Beijing, Algorithm Intern
-- *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing, research assistant
+- *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen, (Research Assistant)
+- *2022.11 - 2023.02*, Heisenzhidong, Beijing, (Algorithm Intern)
+- *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing, (Research Assistant)
