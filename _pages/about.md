@@ -86,6 +86,6 @@ Welcome to communicate and follow!
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Intern
-- *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen, (Research Assistant)
-- *2022.11 - 2023.02*, Heisenzhidong, Beijing, (Algorithm Intern)
-- *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing, (Research Assistant)
+- *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen (Research Assistant)
+- *2022.11 - 2023.02*, Heisenzhidong, Beijing (Algorithm Intern)
+- *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing (Research Assistant)
