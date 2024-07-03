@@ -16,20 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Now I study at the School of Data Science, the Chinese University of Hong Kong, Shenzhen ((CUHK-SZ)), as a Ph.D. student under the supervision of Prof <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'>Guiliang Liu</a>.
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+Working Experience and Education: I received my Bachelor's degree at the School of Computing Science and Technology, the Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University, advised by <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
-
+Research Interests: Reinforcement Learning (RL) and the related topics, including, Inverse Constrained RL, Multi-agent RL, Safe RL. I have also studied applications of Graph Neural Networks and Autonomous Driving.
 
 <span class='anchor' id='-xl'></span>
 
