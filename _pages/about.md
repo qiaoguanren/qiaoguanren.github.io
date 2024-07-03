@@ -59,7 +59,7 @@ Welcome to communicate and follow!
 </div>
 </div>
 # 2022
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2022</div><img src='images/NeurIPS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2022</div><img src='images/BIBM2022.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Ruiqi Jia, Wentao Xie, Baole Wei, **Guanren Qiao**, Zonglin Yang, Xiaoqing Lyu, Zhi Tang
