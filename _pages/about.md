@@ -29,9 +29,9 @@ Now I study at the School of Data Science, the Chinese University of Hong Kong, 
 <span class='anchor' id='-xl'></span>
 
 # 🔥 News
-● 2024.07: one paper accepted by ECCV 2024.
-● 2023.09: one paper accepted by Neurips 2023.
-● 2023.08: I am a Ph.D. student at the Chinese University of Hong Kong, Shenzhen.
+● 2024.07: one paper accepted by ECCV 2024.<br />
+● 2023.09: one paper accepted by Neurips 2023.<br />
+● 2023.08: I am a Ph.D. student at the Chinese University of Hong Kong, Shenzhen.<br />
  
 <span class='anchor' id='-lwzl'></span>
 
