@@ -22,10 +22,12 @@ Now I study at the School of Data Science, the Chinese University of Hong Kong, 
 
 **Research Interests**: Reinforcement Learning and the related topics,
 including: 
-            *Inverse Constrained Reinforcement Learning 
-            *Multi-agent Reinforcement Learning
-            *Safe Reinforcement Learning. 
-            *Applications of Graph Neural Networks and Autonomous Driving.
+        <ol>
+        <li>Inverse Constrained Reinforcement Learning</li>
+        <li>Multi-agent Reinforcement Learning</li>
+        <li>Safe Reinforcement Learning</li>
+        <li>Applications of Graph Neural Networks and Autonomous Driving</li>
+        </ol>
 
 <span class='anchor' id='-xl'></span>
 
