@@ -74,7 +74,7 @@ Welcome to communicate and follow!
 # 🏅 Honor
 - *2022.12*   Graduate Entrance Scholarship  
 - *2022.10*   Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition  
-- *2020-2022*   Merit Student
+- *2020-2022*   School-level Merit Student
 - *2020-2022*   School-level Scholarship
 
 <span class='anchor' id='-xshy'></span>
