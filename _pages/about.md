@@ -79,7 +79,7 @@ Welcome to communicate and follow!
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ Teaching
+# 📖 Teaching
 - *2023.09-2023.12*,   DDA4210  Advanced machine learning
 - *2024.02-2024.05*,   CSC1004  Java Program Project
 
