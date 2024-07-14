@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen (CUHK-SZ), as a Ph.D. student under the supervision of Prof <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'>Guiliang Liu</a>.
+Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen (CUHK-SZ), as a Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>.
 
 **Working Experience and Education**: I received my Bachelor's degree at the School of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University, advised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
 
