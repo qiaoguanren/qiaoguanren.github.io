@@ -31,9 +31,9 @@ Welcome to communicate and follow!
 <span class='anchor' id='-xl'></span>
 
 # 🔥 News
+
+● 2024.10: My poster has been accepted by the RLChina Conference 2024.<br />
 ● 2024.07: one paper accepted by ECCV 2024.<br />
-● 2023.09: one paper accepted by NeurIPS 2023.<br />
-● 2023.08: I am a Ph.D. student at the Chinese University of Hong Kong, Shenzhen.<br />
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -82,6 +82,7 @@ Welcome to communicate and follow!
 # 📖 Teaching
 - *2023.09-2023.12*,   DDA4210  Advanced machine learning
 - *2024.02-2024.05*,   CSC1004  Java Program Project
+- *2024.09-2024.12*,   CSC6129  Reinforcement Learning
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -89,3 +90,7 @@ Welcome to communicate and follow!
 - *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen (Research Assistant)
 - *2022.11 - 2023.02*, Heisenzhidong, Beijing (Algorithm Intern)
 - *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing (Research Assistant)
+
+# 🖋️ Service
+- Conference: AAAI, ICLR reviewer
+- Journal: IEEE Transaction on Artificial Intelligence reviewer
