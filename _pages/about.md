@@ -49,6 +49,16 @@ Welcome to communicate and cite!
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CBDQ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Xingrui Gu, **Guanren Qiao**, Chuyi Jiang, Tianqing Xia, Hangyu Mao
+-	Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning (Preprint) 
+- [[paper]](https://arxiv.org/abs/2410.01739) [[code (coming soon)]]()
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,6 +110,8 @@ Welcome to communicate and cite!
 - *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen (Research Assistant)
 - *2022.11 - 2023.02*, Heisenzhidong, Beijing (Algorithm Intern)
 - *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing (Research Assistant)
+
+<span class='anchor' id='-gzss'></span>
 
 # 🖋️ Service
 - Conference Reviewer:
