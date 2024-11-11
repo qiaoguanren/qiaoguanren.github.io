@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen (CUHK-SZ), as a Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>.
 
-**Working Experience and Education**: I received my Bachelor's degree at the School of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University, advised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
+**Working Experience and Education**: I received my Bachelor's degree at the School of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University (PKU), advised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Safe Reinforcement Learning<br />
@@ -31,7 +31,7 @@ Welcome to communicate and cite!
 
 # 🔥 News
 
-● 2024.10: My poster of TrafficGamer has been accepted by the RLChina Conference 2024.<br />
+● 2024.10: One of my works' posters (TrafficGamer, Under Review)  has been accepted by the RLChina Conference 2024.<br />
 ● 2024.07: one paper accepted by ECCV 2024.<br />
  
 <span class='anchor' id='-lwzl'></span>
@@ -39,12 +39,22 @@ Welcome to communicate and cite!
 # 📝 Publication
 
 # 2024
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TrafficGamer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	**Guanren Qiao**, Guorui Quan, Jiawei Yu, Shujun Jia, Guiliang Liu
+-	TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles (Preprint) 
+- [[paper]](https://arxiv.org/abs/2408.15538) [[code]](https://github.com/qiaoguanren/TrafficGamer) [[demo]](https://qiaoguanren.github.io/trafficgamer-demo/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guorui Quan, Rongxiao Qu, Guiliang Liu
 -	Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model (*ECCV* 2024) 
-- [[paper (coming soon)]]() [[code (coming soon)]]()
+- [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05085.pdf) [[code]](https://github.com/qiaoguanren/MARL-CCE)
 
 </div>
 </div>
@@ -74,8 +84,8 @@ Welcome to communicate and cite!
 - *2024.11*   Duan Yong Ping Meritorious Research Award
 - *2022.12*   Graduate Entrance Scholarship  
 - *2022.10*   Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition  
-- *2020-2022*   School-level Merit Student
-- *2020-2022*   School-level Scholarship
+- *2020-2022*   Beijing University of Posts and Telecommunications Merit Student
+- *2020-2022*   Beijing University of Posts and Telecommunications Scholarship
 
 <span class='anchor' id='-xshy'></span>
 
