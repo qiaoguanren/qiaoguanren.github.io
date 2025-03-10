@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen (CUHK-SZ), as a Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>.
 
-**Working Experience and Education**: I received my Bachelor's degree at the School of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University (PKU), advised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
+**Working Experience and Education**: I have received my Bachelor's degree at the School of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University (PKU), advised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Safe Reinforcement Learning<br />
-        ● Embodied AI (humanoid sim2real)<br />
-        ● Multi-agent decision on Autonomous Driving<br />
+        ● Embodied AI (Humanoid Sim2Real)<br />
+        ● Multi-Agent Decision on Autonomous Driving<br />
+        ● AI for Science LLM Agent <br />
 
 Welcome to communicate and cite!
 
@@ -31,8 +32,7 @@ Welcome to communicate and cite!
 
 # 🔥 News
 
-● 2024.10: One of my works' posters (TrafficGamer, Under Review)  has been accepted by the RLChina Conference 2024.<br />
-● 2024.07: one paper accepted by ECCV 2024.<br />
+● 2025.03: Register to Become an ICCV Reviewer. </br>
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -45,16 +45,6 @@ Welcome to communicate and cite!
 -	**Guanren Qiao**, Guorui Quan, Jiawei Yu, Shujun Jia, Guiliang Liu
 -	TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles (Preprint) 
 - [[paper]](https://arxiv.org/abs/2408.15538) [[code]](https://github.com/qiaoguanren/TrafficGamer) [[demo]](https://qiaoguanren.github.io/trafficgamer-demo/)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CBDQ.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Xingrui Gu, **Guanren Qiao**, Chuyi Jiang, Tianqing Xia, Hangyu Mao
--	Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning (Preprint) 
-- [[paper]](https://arxiv.org/abs/2410.01739) [[code (coming soon)]]()
 
 </div>
 </div>
@@ -101,21 +91,19 @@ Welcome to communicate and cite!
 
 # 📖 Teaching
 - *2024.09-2024.12*,   CSC6129  Reinforcement Learning
-- *2024.02-2024.05*,   CSC1004  Java Program Project
+- *2024.02-2024.05 / 2025.02-2025.05*,   CSC1004  Java Program Project
 - *2023.09-2023.12*,   DDA4210  Advanced machine learning
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Intern
 - *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen (Research Assistant)
-- *2022.11 - 2023.02*, Heisenzhidong, Beijing (Algorithm Intern)
 - *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing (Research Assistant)
 
 <span class='anchor' id='-gzss'></span>
 
 # 🖋️ Service
 - Conference Reviewer:
-  - AAAI
-  - ICLR
+  - AAAI, ICLR, ICCV
 - Journal Reviewer:
-  - IEEE Transaction on Artificial Intelligence
+  - IEEE Transaction on Artificial Intelligence (TAI)
