@@ -16,15 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen (CUHK-SZ), as a Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>.
+Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen (CUHK-SZ), as a CS Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>.
 
 **Working Experience and Education**: I have received my Bachelor's degree at the School of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University (PKU), advised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
-        ● Safe Reinforcement Learning<br />
+        ● Reinforcement Learning<br />
         ● Embodied AI (Humanoid Sim2Real)<br />
         ● Multi-Agent Decision on Autonomous Driving<br />
-        ● AI for Science LLM Agent <br />
+        ● AI for Science LLM Agent/Workflow <br />
 
 Welcome to communicate and cite!
 
@@ -32,8 +32,9 @@ Welcome to communicate and cite!
 
 # 🔥 News
 
-● 2025.03: Register to Become an ICCV Reviewer. </br>
- 
+● 2025.04: Invited to be a NeurIPS Reviewer. <br />
+● 2025.03: Invited to be an ICCV Reviewer. 
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publication
@@ -104,6 +105,6 @@ Welcome to communicate and cite!
 
 # 🖋️ Service
 - Conference Reviewer:
-  - AAAI, ICLR, ICCV
+  - AAAI, ICLR, ICCV, NeurIPS
 - Journal Reviewer:
   - IEEE Transaction on Artificial Intelligence (TAI)
