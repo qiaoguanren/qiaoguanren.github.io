@@ -42,7 +42,7 @@ Welcome to communicate and cite!
 # 📝 Publication
 
 # 2025
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://www.bilibili.com/video/BV1u6jRzaE3L/' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SignBot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Sixu Lin, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu
@@ -51,6 +51,27 @@ Welcome to communicate and cite!
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HWC-loco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Sixu Lin, **Guanren Qiao**, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu
+-	HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion (Preprint) 
+- [[paper]](https://arxiv.org/abs/2503.00923) [[code (Coming Soon)]] [[demo]](https://simonlinsx.github.io/HWC_Loco/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Workshop 2025</div><img src='images/CBD-RL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Xingrui Gu, **Guanren Qiao**, Chuyi Jiang
+-	Mimicking Human Intuition: Cognitive Belief-Driven Reinforcement Learning (*ICML Workshop* 2025) 
+- [[paper]](https://arxiv.org/pdf/2410.01739) [[code (Coming Soon)]]
+
+</div>
+</div>
+
 # 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TrafficGamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
