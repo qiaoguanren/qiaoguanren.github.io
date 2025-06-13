@@ -22,9 +22,9 @@ Now I study at the School of Data Science, Chinese University of Hong Kong, Shen
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Reinforcement Learning<br />
-        ● Embodied AI (Humanoid Sim2Real)<br />
+        ● Embodied AI (Human-Robot Collaboration)<br />
         ● Multi-Agent Decision on Autonomous Driving<br />
-        ● AI for Science LLM Agent/Workflow <br />
+        ● AI4Science LLM Agent/Workflow <br />
 
 Welcome to communicate and cite!
 
@@ -32,13 +32,25 @@ Welcome to communicate and cite!
 
 # 🔥 News
 
-● 2025.04: Invited to be a NeurIPS Reviewer. <br />
-● 2025.03: Invited to be an ICCV Reviewer. 
+● 2025.06: Register as an IEEE student member. <br />
+● 2025.06: One paper accepted by ICML Workshop 2025. <br />
+● 2024.07: One paper accepted by ECCV 2024.  <br />
+● 2023.09: One paper accepted by NeurIPS 2023.
 
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publication
 
+# 2025
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://www.bilibili.com/video/BV1u6jRzaE3L/' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	**Guanren Qiao**, Sixu Lin, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu
+-	SignBot: Learning Human-to-Humanoid Sign Language Interaction (Preprint) 
+- [[paper]](https://arxiv.org/abs/2505.24266) [[code (Coming Soon)]] [[demo]](https://qiaoguanren.github.io/SignBot/)
+
+</div>
+</div>
 # 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TrafficGamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,13 +101,6 @@ Welcome to communicate and cite!
 - *2020-2022*   Beijing University of Posts and Telecommunications Scholarship
 
 <span class='anchor' id='-xshy'></span>
-
-# 📖 Teaching
-- *2024.09-2024.12*,   CSC6129  Reinforcement Learning
-- *2024.02-2024.05 / 2025.02-2025.05*,   CSC1004  Java Program Project
-- *2023.09-2023.12*,   DDA4210  Advanced machine learning
-
-<span class='anchor' id='-gzsx'></span>
 
 # 💻 Intern
 - *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen (Research Assistant)
