@@ -32,10 +32,11 @@ Welcome to communicate and cite!
 
 # 🔥 News
 
-● 2025.06: Register as an IEEE student member. <br />
-● 2025.06: One paper accepted by ICML Workshop 2025. <br />
-● 2024.07: One paper accepted by ECCV 2024.  <br />
-● 2023.09: One paper accepted by NeurIPS 2023.
+● *2025.06*: 🎉 Register as an IEEE student member. <br />
+● *2025.06*: 🎉 A paper about cognitive science and reinforcement learning accepted by **ICML Workshop 2025**. <br />
+● *2024.10*: 🎉 A poster about safety-critical traffic simulation shown in **RL-China 2024**. <br />
+● *2024.07*: 🎉 A paper about multi-vehicle interaction with game theory accepted by **ECCV 2024**.  <br />
+● *2023.09*: 🎉 A paper about inverse constrained reinforcement learning accepted by **NeurIPS 2023**.
 
 <span class='anchor' id='-lwzl'></span>
 
@@ -115,11 +116,11 @@ Welcome to communicate and cite!
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honor
-- *2024.11*   Duan Yong Ping Meritorious Research Award
-- *2022.12*   Graduate Entrance Scholarship  
-- *2022.10*   Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition  
-- *2020-2022*   Beijing University of Posts and Telecommunications Merit Student
-- *2020-2022*   Beijing University of Posts and Telecommunications Scholarship
+- *2024.11*   🏅 Duan Yong Ping Meritorious Research Award
+- *2022.12*   🏅 Graduate Entrance Scholarship  
+- *2022.10*   🏆 Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition  
+- *2020-2022* 🏅 Beijing University of Posts and Telecommunications Merit Student
+- *2020-2022* 🏅 Beijing University of Posts and Telecommunications Scholarship
 
 <span class='anchor' id='-xshy'></span>
 
