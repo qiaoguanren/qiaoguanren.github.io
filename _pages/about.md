@@ -32,7 +32,6 @@ Welcome to communicate and cite!
 
 # 🔥 News
 
-● *2025.06*: 🎉 Register as an IEEE student member. <br />
 ● *2025.06*: 🎉 A paper about cognitive science and reinforcement learning accepted by **ICML Workshop 2025**. <br />
 ● *2024.10*: 🎉 A poster about safety-critical traffic simulation shown in **CCF RL-China 2024**. <br />
 ● *2024.07*: 🎉 A paper about multi-vehicle interaction with game theory accepted by **ECCV 2024**.  <br />
