@@ -47,7 +47,7 @@ Welcome to communicate and cite!
 
 -	**Guanren Qiao**, Sixu Lin, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu
 -	SignBot: Learning Human-to-Humanoid Sign Language Interaction (Preprint) 
-- [[paper]](https://arxiv.org/abs/2505.24266) [[code (Coming Soon)]] [[demo]](https://qiaoguanren.github.io/SignBot/)
+- [[paper]](https://arxiv.org/abs/2505.24266) [[code (Coming Soon)]] [[demo]](https://qiaoguanren.github.io/SignBot-demo/)
 
 </div>
 </div>
