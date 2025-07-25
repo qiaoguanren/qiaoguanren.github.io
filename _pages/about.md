@@ -103,7 +103,7 @@ Welcome to communicate and cite!
 </div>
 # 2022
 <div class='paper-box'><div class="badge">BIBM 2022</div>
-<div>
+<div class='paper-box-text' markdown="1">
 <!-- <img src='images/BIBM2022.png' alt="sym" width="100%"> -->
 -	Ruiqi Jia, Wentao Xie, Baole Wei, **Guanren Qiao**, Zonglin Yang, Xiaoqing Lyu, Zhi Tang, "Molecular Formula Image Segmentation with Shape Constraint Loss and Data Augmentation" (*BIBM* 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9995506/)
 </div>
