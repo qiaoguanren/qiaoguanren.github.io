@@ -63,7 +63,8 @@ Welcome to communicate and cite!
 </div>
 
 <div class='paper-box'>
-<!--   <div class='paper-box-image'><div><div class="badge">ICML Workshop 2025</div><img src='images/CBD-RL.png' alt="sym" width="100%"></div></div> -->
+<!-- <div class='paper-box-image'><div><div class="badge">ICML Workshop 2025</div><img src='images/CBD-RL.png' alt="sym" width="100%"></div></div> -->
+  <div class='paper-box-image'><div><div class="badge">ICML Workshop 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Xingrui Gu, **Guanren Qiao**, Chuyi Jiang
