@@ -62,12 +62,13 @@ Welcome to communicate and cite!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Workshop 2025</div><img src='images/CBD-RL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<!--   <div class='paper-box-image'><div><div class="badge">ICML Workshop 2025</div><img src='images/CBD-RL.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
 -	Xingrui Gu, **Guanren Qiao**, Chuyi Jiang
 -	Mimicking Human Intuition: Cognitive Belief-Driven Reinforcement Learning (*ICML Workshop* 2025) 
-- [[paper]](https://arxiv.org/pdf/2410.01739) [[code (Coming Soon)]]
+- [[paper]](https://arxiv.org/pdf/2410.01739) [[code]](https://github.com/HsingjuiKu/cognitive-belief-driven-reinforcement-learning)
 
 </div>
 </div>
