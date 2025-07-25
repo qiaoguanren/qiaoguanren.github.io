@@ -82,6 +82,13 @@
             order: 2;
         }
 
+        .paper-box-text2{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 100%;
+            order: 2;
+        }
+
     }
 
 
@@ -102,6 +109,17 @@ h1:before, .anchor:before {
     padding-right: 1rem;
     position: absolute;
     margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+.badge2 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    // margin-top: .5em;
     margin-left: -.5em;
     color: white;
     background-color: #00369f;
