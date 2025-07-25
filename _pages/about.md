@@ -67,9 +67,7 @@ Welcome to communicate and cite!
   <div class='paper-box-image'><div><div class="badge">ICML Workshop 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xingrui Gu, **Guanren Qiao**, Chuyi Jiang
--	Mimicking Human Intuition: Cognitive Belief-Driven Reinforcement Learning (*ICML Workshop* 2025) 
-- [[paper]](https://arxiv.org/pdf/2410.01739) [[code]](https://github.com/HsingjuiKu/cognitive-belief-driven-reinforcement-learning)
+-	Xingrui Gu, **Guanren Qiao**, Chuyi Jiang, "Mimicking Human Intuition: Cognitive Belief-Driven Reinforcement Learning" (*ICML Workshop* 2025) [[paper]](https://arxiv.org/pdf/2410.01739) [[code]](https://github.com/HsingjuiKu/cognitive-belief-driven-reinforcement-learning)
 
 </div>
 </div>
@@ -104,12 +102,10 @@ Welcome to communicate and cite!
 </div>
 </div>
 # 2022
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2022</div><img src='images/BIBM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2022</div></div></div>
 <div class='paper-box-text' markdown="1">
-
--	Ruiqi Jia, Wentao Xie, Baole Wei, **Guanren Qiao**, Zonglin Yang, Xiaoqing Lyu, Zhi Tang
--	Molecular Formula Image Segmentation with Shape Constraint Loss and Data Augmentation (*BIBM* 2022)
-- [[paper]](https://ieeexplore.ieee.org/abstract/document/9995506/)
+<!-- <img src='images/BIBM2022.png' alt="sym" width="100%"> -->
+-	Ruiqi Jia, Wentao Xie, Baole Wei, **Guanren Qiao**, Zonglin Yang, Xiaoqing Lyu, Zhi Tang, "Molecular Formula Image Segmentation with Shape Constraint Loss and Data Augmentation" (*BIBM* 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9995506/)
 </div>
 </div>
 
