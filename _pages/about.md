@@ -42,7 +42,7 @@ Welcome to communicate and cite!
 # 📝 Publication
 
 # 2025
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SignBot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SignBot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Sixu Lin, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu
@@ -52,7 +52,7 @@ Welcome to communicate and cite!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HWC-loco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/HWC-loco.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Sixu Lin, **Guanren Qiao**, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu
@@ -64,8 +64,8 @@ Welcome to communicate and cite!
 
 <div class='paper-box'>
 <!-- <div class='paper-box-image'><div><div class="badge">ICML Workshop 2025</div><img src='images/CBD-RL.png' alt="sym" width="100%"></div></div> -->
-  <div class='paper-box-image'><div><div class="badge">ICML Workshop 2025</div></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-image'><div></div></div>
+<div class='paper-box-text2' markdown="1">
 
 -	Xingrui Gu, **Guanren Qiao**, Chuyi Jiang, "Mimicking Human Intuition: Cognitive Belief-Driven Reinforcement Learning" (*ICML Workshop* 2025) [[paper]](https://arxiv.org/pdf/2410.01739) [[code]](https://github.com/HsingjuiKu/cognitive-belief-driven-reinforcement-learning)
 
@@ -73,7 +73,7 @@ Welcome to communicate and cite!
 </div>
 
 # 2024
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TrafficGamer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TrafficGamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guorui Quan, Jiawei Yu, Shujun Jia, Guiliang Liu
@@ -83,7 +83,7 @@ Welcome to communicate and cite!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guorui Quan, Rongxiao Qu, Guiliang Liu
@@ -93,7 +93,7 @@ Welcome to communicate and cite!
 </div>
 </div>
 # 2023
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/NeurIPS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guiliang Liu, Pascal Poupart, Zhiqiang Xu
@@ -102,7 +102,7 @@ Welcome to communicate and cite!
 </div>
 </div>
 # 2022
-<div class='paper-box'><div class="badge2">BIBM 2022</div>
+<div class='paper-box'>
 <div class='paper-box-text2' markdown="1">
 <!-- <img src='images/BIBM2022.png' alt="sym" width="100%"> -->
 -	Ruiqi Jia, Wentao Xie, Baole Wei, **Guanren Qiao**, Zonglin Yang, Xiaoqing Lyu, Zhi Tang, "Molecular Formula Image Segmentation with Shape Constraint Loss and Data Augmentation" (*BIBM* 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9995506/)
