@@ -114,7 +114,7 @@ Welcome to communicate and cite!
 
 # 🏅 Honor
 - *2024.11*   🏅 Duan Yong Ping Meritorious Research Award
-- *2022.12*   🏅 Graduate Entrance Scholarship  
+- *2022.12*   🏅 The Chinese University of Hong Kong Shenzhen Scholarship  
 - *2022.10*   🏆 Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition  
 - *2020-2022* 🏅 Beijing University of Posts and Telecommunications Merit Student
 - *2020-2022* 🏅 Beijing University of Posts and Telecommunications Scholarship
