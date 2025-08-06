@@ -122,6 +122,7 @@ Welcome to communicate and cite!
 <span class='anchor' id='-xshy'></span>
 
 # 💻 Intern
+- *2025.08 - 2026.02*, DexForce (Research Intern)
 - *2023.02 - 2023.05*, The Chinese University of Hong Kong, Shenzhen (Research Assistant)
 - *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing (Research Assistant)
 
@@ -132,3 +133,5 @@ Welcome to communicate and cite!
   - AAAI, ICLR, ICCV, NeurIPS
 - Journal Reviewer:
   - IEEE Transaction on Artificial Intelligence (TAI)
+  - Robotics and Computer-Integrated Manufacturing
+
