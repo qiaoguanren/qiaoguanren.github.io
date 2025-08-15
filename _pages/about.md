@@ -32,7 +32,7 @@ Welcome to communicate and cite!
 
 # 🔥 News
 
-● *2025.08*: 🎉 First Prize (**Top 2**) in the Provincial Competition of the Embodied Artificial Intelligence Track, National College Computer Proficiency Challenge. <br />
+● *2025.08*: 🎉 First Prize (**Top 2**) in the Provincial Competition of the Embodied Artificial Intelligence Track, National College Computer Challenge. <br />
 ● *2025.06*: 🎉 A paper about cognitive science and reinforcement learning accepted by **ICML Workshop 2025**. <br />
 ● *2024.10*: 🎉 A poster about safety-critical traffic simulation shown in **CCF RL-China 2024**. <br />
 ● *2024.07*: 🎉 A paper about multi-vehicle interaction with game theory accepted by **ECCV 2024**.  <br />
@@ -90,7 +90,7 @@ Welcome to communicate and cite!
 
 -	**Guanren Qiao**, Guorui Quan, Jiawei Yu, Shujun Jia, Guiliang Liu
 -	TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles (Preprint) 
-- [[paper]](https://arxiv.org/abs/2408.15538) [[code]](https://github.com/qiaoguanren/TrafficGamer) [[demo]](https://qiaoguanren.github.io/trafficgamer-demo/)
+- [[paper]](https://arxiv.org/abs/2408.15538) [[code]](https://github.com/qiaoguanren/TrafficGamer)
 
 </div>
 </div>
@@ -125,7 +125,7 @@ Welcome to communicate and cite!
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honor
-- *2025.08*:  🏆 First Prize (**Top 2**) in the Provincial Competition of the Embodied Artificial Intelligence Track, National College Computer Proficiency Challenge
+- *2025.08*:  🏆 First Prize (**Top 2**) in the Provincial Competition of the Embodied Artificial Intelligence Track, National College Computer Challenge
 - *2024.11*   🏅 Duan Yong Ping Meritorious Research Award
 - *2022.12*   🏅 The Chinese University of Hong Kong Shenzhen Scholarship  
 - *2022.10*   🏆 Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition  
@@ -147,5 +147,6 @@ Welcome to communicate and cite!
 - Journal Reviewer:
   - IEEE Transaction on Artificial Intelligence (TAI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
