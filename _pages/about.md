@@ -22,9 +22,9 @@ Now I study at the School of Data Science, Chinese University of Hong Kong, Shen
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Reinforcement Learning<br />
-        ● Embodied AI (Human-Robot Collaboration)<br />
+        ● Embodied AI (Humanoid Locomotion and Robot arm manipulation)<br />
         ● Multi-Agent Decision on Autonomous Driving<br />
-        ● AI4Science LLM Agent/Workflow <br />
+        ● AI4Science Agent/Workflow <br />
 
 Welcome to communicate and cite!
 
@@ -32,7 +32,8 @@ Welcome to communicate and cite!
 
 # 🔥 News
 
-● *2025.08*: 🎉 First Prize (**Top 2**) in the Provincial Competition of the Embodied Artificial Intelligence Track, National College Computer Challenge. <br />
+● *2025.12*: 🎉 **Top 6** in the Tencent Kaiwu AI Reinforcement Learning Embodied-AI Control Track National Finals. <br />
+● *2025.08*: 🎉 **Top 2** in the Provincial Competition of the Embodied Artificial Intelligence Track, National College Computer Challenge. <br />
 ● *2025.06*: 🎉 A paper about cognitive science and reinforcement learning accepted by **ICML Workshop 2025**. <br />
 ● *2024.10*: 🎉 A poster about safety-critical traffic simulation shown in **CCF RL-China 2024**. <br />
 ● *2024.07*: 🎉 A paper about multi-vehicle interaction with game theory accepted by **ECCV 2024**.  <br />
@@ -125,7 +126,8 @@ Welcome to communicate and cite!
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honor
-- *2025.08*:  🏆 First Prize (**Top 2**) in the Provincial Competition of the Embodied Artificial Intelligence Track, National College Computer Challenge
+- *2025.12*:  🏆 **Top 6** in the Tencent Kaiwu AI Reinforcement Learning Embodied-AI Control Track National Finals.
+- *2025.08*:  🏆 **Top 2** in the Provincial Competition of the Embodied Artificial Intelligence Track, National College Computer Challenge
 - *2024.11*   🏅 Duan Yong Ping Meritorious Research Award
 - *2022.12*   🏅 The Chinese University of Hong Kong Shenzhen Scholarship  
 - *2022.10*   🏆 Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition  
@@ -145,8 +147,9 @@ Welcome to communicate and cite!
 - Conference Reviewer:
   - AAAI, ICLR, ICCV, NeurIPS
 - Journal Reviewer:
-  - IEEE Transaction on Artificial Intelligence (TAI)
+  - IEEE Transaction on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
