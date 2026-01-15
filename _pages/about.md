@@ -33,7 +33,6 @@ Welcome to communicate and cite!
 # 🔥 News
 
 ● *2025.12*: 🎉 **Top 6** (6/493) in the Tencent Kaiwu AI National Open Competition (Reinforcement Learning Embodied-AI Track). <br />
-● *2025.08*: 🎉 **Top 2** (2/149) in the Provincial Competition of the China Collegiate Computing Contest (Reinforcement Learning Track). <br />
 ● *2025.06*: 🎉 One paper about cognitive science and reinforcement learning accepted by **ICML Workshop 2025**. <br />
 ● *2024.10*: 🎉 One poster about safety-critical traffic simulation shown in **CCF RL-China 2024**. <br />
 ● *2024.07*: 🎉 One paper about multi-vehicle interaction with game theory accepted by **ECCV 2024**.  <br />
@@ -127,7 +126,6 @@ Welcome to communicate and cite!
 
 # 🏅 Honor
 - *2025.12*:  🏆 **Top 6** (6/493) in the Tencent Kaiwu AI National Open Competition (Reinforcement Learning Embodied-AI Track)
-- *2025.08*:  🏆 **Top 2** (2/149) in the Provincial Competition of the China Collegiate Computing Contest (Reinforcement Learning Track)
 - *2024.11*   🏅 Duan Yong Ping Meritorious Research Award
 - *2022.12*   🏅 The Chinese University of Hong Kong Shenzhen Scholarship
 - *2022.10*   🏆 Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition 
@@ -149,6 +147,7 @@ Welcome to communicate and cite!
 - Journal Reviewer:
   - IEEE Transaction on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
