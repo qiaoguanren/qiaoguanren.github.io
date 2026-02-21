@@ -70,7 +70,7 @@ My work has been published in top-tier international AI conferences such as ICLR
 
 # 📝 Selected Publications
 
-* denotes equal contribiton, $\dagger$ denotes corresponding author
+$*$ denotes equal contribiton, $\dagger$ denotes corresponding author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/SignBot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -333,6 +333,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
