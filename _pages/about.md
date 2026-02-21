@@ -36,7 +36,8 @@ Welcome to communicate and cite!
     <td style="border:none; padding:0;">
       <b>Chinese University of Hong Kong, Shenzhen, China</b><br>
       Ph.D. in Computer Science<br>
-      Aug. 2023 – Present
+      Aug. 2023 – Present<br>
+      Supervisor: Prof <a href='https://guiliang.me/'>Guiliang Liu</a>
     </td>
   </tr>
 </table>
@@ -156,8 +157,32 @@ Welcome to communicate and cite!
 <span class='anchor' id='-xshy'></span>
 
 # 💻 Intern
-- *2025.08 - 2026.02*, Embodied-AI Research Intern: DexForce Technology.
-- *2022.03 - 2022.11*, Research Assistant: Wangxuan Institute of Computer Technology, Peking University, supervised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a>.
+<table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
+  <tr style="border:none;">
+    <td width="200" align="left" style="border:none; padding:0 16px 0 0;">
+      <img src="images/dexforce.png" width="200"/>
+    </td>
+    <td style="border:none; padding:0;">
+      <b>DexForce Technology, China</b><br>
+      Embodied-AI Research Intern<br>
+      Aug. 2025 – Present
+    </td>
+  </tr>
+</table>
+
+<table style="border:none;border-collapse:collapse; margin-top:10px;" cellspacing="0" cellpadding="0">
+  <tr style="border:none;">
+    <td width="200" align="left" style="border:none; padding:0 16px 0 0;">
+      <img src="images/pku.png" width="200"/>
+    </td>
+    <td style="border:none; padding:0;">
+      <b>Wangxuan Institute of Computer Technology, Peking University, China</b><br>
+      Research Assistant<br>
+      Mar. 2022 – Nov. 2022<br>
+      Supervisor: Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a>
+    </td>
+  </tr>
+</table>
 
 <span class='anchor' id='-gzss'></span>
 
@@ -167,24 +192,6 @@ Welcome to communicate and cite!
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
