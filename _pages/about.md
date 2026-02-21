@@ -16,9 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-**Working Experience and Education**: Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen <img width="100" height="10" alt="logo" src="https://github.com/user-attachments/assets/66e7c4b0-fd01-4dab-ad5e-c3a9295c5b28" />
-, as a CS Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the School of Computer Science and Technology, 
-Beijing University of Posts and Telecommunications <img width="100" height="10" alt="o7pME0Q8pB" src="https://github.com/user-attachments/assets/e02b81b1-bf7a-4986-a3c4-bada84241b20" />. 
+**Working Experience and Education**: Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
+, as a computer science Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the School of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT). 
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Real-World Reinforcement Learning<br />
@@ -27,6 +26,33 @@ Beijing University of Posts and Telecommunications <img width="100" height="10" 
         ● AI Scientist System
 
 Welcome to communicate and cite!
+
+# 📖 Educations
+<table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
+  <tr style="border:none;">
+    <td width="120" align="center" style="border:none; padding:0 16px 0 0;">
+      <img src="images/cuhksz.jpg" width="90" />
+    </td>
+    <td style="border:none; padding:0;">
+      <b>Chinese University of Hong Kong, Shenzhen, China</b><br>
+      Ph.D. in Computer Science<br>
+      Aug. 2023 – Present
+    </td>
+  </tr>
+</table>
+
+<table style="border:none;border-collapse:collapse; margin-top:10px;" cellspacing="0" cellpadding="0">
+  <tr style="border:none;">
+    <td width="120" align="center" style="border:none; padding:0 16px 0 0;">
+      <img src="images/bupt.png" width="90" />
+    </td>
+    <td style="border:none; padding:0;">
+      <b>Beijing University of Posts and Telecommunications, China</b><br>
+      Bachelor in Computer Science and Technology<br>
+      Aug. 2019 – Jun. 2023
+    </td>
+  </tr>
+</table>
 
 <span class='anchor' id='-xl'></span>
 
@@ -141,6 +167,7 @@ Welcome to communicate and cite!
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
