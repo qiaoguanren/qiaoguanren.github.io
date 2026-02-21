@@ -16,15 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen (CUHK-SZ), as a CS Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>.
-
-**Working Experience and Education**: I have received my Bachelor's degree at the School of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT). I also finished a research internship at Wangxuan Institute of Computer Technology, Peking University (PKU), advised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a> (2022).
+**Working Experience and Education**: Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen <img width="697" height="100" alt="logo" src="https://github.com/user-attachments/assets/66e7c4b0-fd01-4dab-ad5e-c3a9295c5b28" />
+, as a CS Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the School of Computer Science and Technology, 
+Beijing University of Posts and Telecommunications <img width="895" height="312" alt="o7pME0Q8pB" src="https://github.com/user-attachments/assets/e02b81b1-bf7a-4986-a3c4-bada84241b20" />. 
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Real-World Reinforcement Learning<br />
         ● Vision-Language-Action model in robotic manipulation<br />
         ● Human-to-Humanoid Loco-Manipulation <br />
-        ● AI Scitist System
+        ● AI Scientist System
 
 Welcome to communicate and cite!
 
@@ -120,7 +120,7 @@ Welcome to communicate and cite!
 # 🏅 Honor
 - *2025.12*:  🏆 **Top 6** (6/463) in the Tencent Kaiwu AI National Open Competition (Reinforcement Learning Embodied-AI Track)
 - *2024.11*   🏅 Duan Yong Ping Meritorious Research Award
-- *2024.11*   🏅 Duan Yong Ping Meritorious Research Award
+- *2024.11*   🏅 Duan Yong Ping Travel Award
 - *2022.12*   🏅 The Chinese University of Hong Kong Shenzhen Scholarship
 - *2022.09*  🏅 Excellent Student (**Top 5**) of the China Mobile Wutong Summer Internship
 - *2021.10*   🏆 Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition
@@ -130,8 +130,8 @@ Welcome to communicate and cite!
 <span class='anchor' id='-xshy'></span>
 
 # 💻 Intern
-- *2025.08 - 2026.02*, DexForce Technology (Research Intern)
-- *2022.03 - 2022.11*, Wangxuan Institute of Computer Technology, Peking University, Beijing (Research Assistant)
+- *2025.08 - 2026.02*, Embodied-AI Research Intern: DexForce Technology.
+- *2022.03 - 2022.11*, Research Assistant: Wangxuan Institute of Computer Technology, Peking University, supervised by Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a>.
 
 <span class='anchor' id='-gzss'></span>
 
@@ -141,6 +141,7 @@ Welcome to communicate and cite!
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
