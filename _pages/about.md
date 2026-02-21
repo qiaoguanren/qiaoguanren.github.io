@@ -31,7 +31,7 @@ Welcome to communicate and cite!
 <table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
   <tr style="border:none;">
     <td width="120" align="center" style="border:none; padding:0 16px 0 0;">
-      <img src="images/cuhksz.jpg" width="90" />
+      <img src="images/cuhksz.png" width="120" height="60"/>
     </td>
     <td style="border:none; padding:0;">
       <b>Chinese University of Hong Kong, Shenzhen, China</b><br>
@@ -44,7 +44,7 @@ Welcome to communicate and cite!
 <table style="border:none;border-collapse:collapse; margin-top:10px;" cellspacing="0" cellpadding="0">
   <tr style="border:none;">
     <td width="120" align="center" style="border:none; padding:0 16px 0 0;">
-      <img src="images/bupt.png" width="90" />
+      <img src="images/bupt.png" width="120" height="60"/>
     </td>
     <td style="border:none; padding:0;">
       <b>Beijing University of Posts and Telecommunications, China</b><br>
@@ -167,6 +167,7 @@ Welcome to communicate and cite!
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
