@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-**Working Experience and Education**: Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen <img width="697" height="100" alt="logo" src="https://github.com/user-attachments/assets/66e7c4b0-fd01-4dab-ad5e-c3a9295c5b28" />
+**Working Experience and Education**: Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen <img width="100" height="10" alt="logo" src="https://github.com/user-attachments/assets/66e7c4b0-fd01-4dab-ad5e-c3a9295c5b28" />
 , as a CS Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the School of Computer Science and Technology, 
-Beijing University of Posts and Telecommunications <img width="895" height="312" alt="o7pME0Q8pB" src="https://github.com/user-attachments/assets/e02b81b1-bf7a-4986-a3c4-bada84241b20" />. 
+Beijing University of Posts and Telecommunications <img width="100" height="10" alt="o7pME0Q8pB" src="https://github.com/user-attachments/assets/e02b81b1-bf7a-4986-a3c4-bada84241b20" />. 
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Real-World Reinforcement Learning<br />
@@ -141,6 +141,7 @@ Welcome to communicate and cite!
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
