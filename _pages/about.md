@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-**Working Experience and Education**: Now I study at the School of Data Science, Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
-, as a computer science Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the School of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT). 
+**Working Experience and Education**: Now I study at the <a href="https://www.cuhk.edu.cn/en">School of Data Science, Chinese University of Hong Kong, Shenzhen</a> (CUHK-SZ)
+, as a computer science Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the <a href="https://www.bupt.edu.cn/">School of Computer Science and Technology, Beijing University of Posts and Telecommunications</a> (BUPT). 
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Real-World Reinforcement Learning<br />
@@ -25,7 +25,7 @@ redirect_from:
         ● Human-to-Humanoid Loco-Manipulation <br />
         ● AI Scientist System
 
-Welcome to communicate and cite!
+My work has been published in top-tier international AI conferences such as ICLR, ECCV, ICRA, and NeurIPS. Please feel free to communicate and cooperate via email or <a href="images/wechat.png">WeChat</a>.
 
 # 📖 Educations
 <table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
@@ -72,7 +72,7 @@ Welcome to communicate and cite!
 
 * denotes equal contribiton, $\dagger$ denotes corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SignBot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/SignBot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Sixu Lin, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu$^\dagger$
@@ -82,7 +82,7 @@ Welcome to communicate and cite!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/HWC-loco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/HWC-loco.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Sixu Lin, **Guanren Qiao**, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu$^\dagger$
@@ -92,7 +92,7 @@ Welcome to communicate and cite!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/TrafficGamer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TrafficGamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guorui Quan, Jiawei Yu, Shujun Jia$^\dagger$, Guiliang Liu$^\dagger$
@@ -102,7 +102,7 @@ Welcome to communicate and cite!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guorui Quan, Rongxiao Qu, Guiliang Liu$^\dagger$
@@ -112,7 +112,7 @@ Welcome to communicate and cite!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/NeurIPS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guiliang Liu$^\dagger$, Pascal Poupart, Zhiqiang Xu
@@ -154,8 +154,8 @@ Welcome to communicate and cite!
 <h4 style="text-align: center; color: #4a5568; font-size: 1.2em; margin-bottom: 1em; border-bottom: 2px solid #cbd5e0; padding-bottom: 0.5em; display: inline-block; width: 100%;">🎯 2026</h4>
 
 <ul style="line-height: 1.8; text-align: justify;">
-<li>**Guanren Qiao**, Sixu Lin, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2505.24266">SignBot: Learning Human-to-Humanoid Sign Language Interaction</a>, <strong>ICRA 2026</strong></li>
-<li>Sixu Lin, **Guanren Qiao**, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2503.00923">HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion</a>, <strong>ICLR 2026</strong></li>
+<li><strong>Guanren Qiao</strong>, Sixu Lin, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2505.24266">SignBot: Learning Human-to-Humanoid Sign Language Interaction</a>, <strong>ICRA 2026</strong></li>
+<li>Sixu Lin, <strong>Guanren Qiao</strong>, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2503.00923">HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion</a>, <strong>ICLR 2026</strong></li>
 </ul>
 </div>
 
@@ -163,7 +163,7 @@ Welcome to communicate and cite!
 <h4 style="text-align: center; color: #4a5568; font-size: 1.2em; margin-bottom: 1em; border-bottom: 2px solid #cbd5e0; padding-bottom: 0.5em; display: inline-block; width: 100%;">🎯 2025</h4>
 
 <ul style="line-height: 1.8; text-align: justify;">
-<li>Pengsong Zhang, Xiang Hu, Guowei Huang, Yang Qi, Heng Zhang, Xiuxu Li, Jiaxing Song, Jiabin Luo, Yijiang Li, Shuo Yin, Chengxiao Dai, Eric Hanchen Jiang, Xiaoyan Zhou, Zhenfei Yin, Boqin Yuan, Jing Dong, Guinan Su, **Guanren Qiao**, Haiming Tang, Anghong Du, Lili Pan, Zhenzhong Lan, Xinyu Liu$^\dagger$, <a href="https://universea.github.io/assets/files/hrpwmttmvjfshxsjksjyqqkjqrmkmfkd.pdf">aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists</a>, <strong>Under Review</strong></li>
+<li>Pengsong Zhang, Xiang Hu, Guowei Huang, Yang Qi, Heng Zhang, Xiuxu Li, Jiaxing Song, Jiabin Luo, Yijiang Li, Shuo Yin, Chengxiao Dai, Eric Hanchen Jiang, Xiaoyan Zhou, Zhenfei Yin, Boqin Yuan, Jing Dong, Guinan Su, <strong>Guanren Qiao</strong>, Haiming Tang, Anghong Du, Lili Pan, Zhenzhong Lan, Xinyu Liu$^\dagger$, <a href="https://universea.github.io/assets/files/hrpwmttmvjfshxsjksjyqqkjqrmkmfkd.pdf">aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists</a>, <strong>Under Review</strong></li>
 </ul>
 </div>
 
@@ -171,8 +171,8 @@ Welcome to communicate and cite!
 <h4 style="text-align: center; color: #4a5568; font-size: 1.2em; margin-bottom: 1em; border-bottom: 2px solid #cbd5e0; padding-bottom: 0.5em; display: inline-block; width: 100%;">🎯 2024</h4>
 
 <ul style="line-height: 1.8; text-align: justify;">
-<li>**Guanren Qiao**, Guorui Quan, Jiawei Yu, Shujun Jia$^\dagger$, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2408.15538">TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles</a>, <strong>Under Review</strong></li>
-<li>**Guanren Qiao**, Guorui Quan, Rongxiao Qu, Guiliang Liu$^\dagger$, <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05085.pdf">Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model</a>, <strong>ECCV 2024</strong></li>
+<li><strong>Guanren Qiao</strong>, Guorui Quan, Jiawei Yu, Shujun Jia$^\dagger$, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2408.15538">TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles</a>, <strong>Under Review</strong></li>
+<li><strong>Guanren Qiao</strong>, Guorui Quan, Rongxiao Qu, Guiliang Liu$^\dagger$, <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05085.pdf">Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model</a>, <strong>ECCV 2024</strong></li>
 </ul>
 </div>
 
@@ -180,7 +180,7 @@ Welcome to communicate and cite!
 <h4 style="text-align: center; color: #4a5568; font-size: 1.2em; margin-bottom: 1em; border-bottom: 2px solid #cbd5e0; padding-bottom: 0.5em; display: inline-block; width: 100%;">🎯 2023</h4>
 
 <ul style="line-height: 1.8; text-align: justify;">
-<li>**Guanren Qiao**, Guiliang Liu$^\dagger$, Pascal Poupart, Zhiqiang Xu, <a href="https://openreview.net/pdf?id=4mPiqh4pLb">Multi-Modal Inverse Constrained Reinforcement Learning from a Mixture of Demonstrations</a>, <strong>NeurIPS 2023</strong></li>
+<li><strong>Guanren Qiao</strong>, Guiliang Liu$^\dagger$, Pascal Poupart, Zhiqiang Xu, <a href="https://openreview.net/pdf?id=4mPiqh4pLb">Multi-Modal Inverse Constrained Reinforcement Learning from a Mixture of Demonstrations</a>, <strong>NeurIPS 2023</strong></li>
 </ul>
 </div>
 
@@ -188,7 +188,7 @@ Welcome to communicate and cite!
 <h4 style="text-align: center; color: #4a5568; font-size: 1.2em; margin-bottom: 1em; border-bottom: 2px solid #cbd5e0; padding-bottom: 0.5em; display: inline-block; width: 100%;">🎯 2022</h4>
 
 <ul style="line-height: 1.8; text-align: justify;">
-<li>Ruiqi Jia, Wentao Xie, Baole Wei, **Guanren Qiao**, Zonglin Yang, Xiaoqing Lyu$^\dagger$, Zhi Tang, <a href="https://ieeexplore.ieee.org/abstract/document/9995506/">Molecular Formula Image Segmentation with Shape Constraint Loss and Data Augmentation</a>, <strong>BIBM 2022</strong></li>
+<li>Ruiqi Jia, Wentao Xie, Baole Wei, <strong>Guanren Qiao</strong>, Zonglin Yang, Xiaoqing Lyu$^\dagger$, Zhi Tang, <a href="https://ieeexplore.ieee.org/abstract/document/9995506/">Molecular Formula Image Segmentation with Shape Constraint Loss and Data Augmentation</a>, <strong>BIBM 2022</strong></li>
 </ul>
 </div>
 
@@ -333,6 +333,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
