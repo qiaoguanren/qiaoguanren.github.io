@@ -173,7 +173,7 @@ Welcome to communicate and cite!
 <table style="border:none;border-collapse:collapse; margin-top:10px;" cellspacing="0" cellpadding="0">
   <tr style="border:none;">
     <td width="200" align="left" style="border:none; padding:0 16px 0 0;">
-      <img src="images/pku.png" width="200"/>
+      <img src="images/pku.jpg" width="200"/>
     </td>
     <td style="border:none; padding:0;">
       <b>Wangxuan Institute of Computer Technology, Peking University, China</b><br>
@@ -192,6 +192,7 @@ Welcome to communicate and cite!
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
