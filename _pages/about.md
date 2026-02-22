@@ -320,7 +320,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <b>Wangxuan Institute of Computer Technology, Peking University, China</b><br>
       Research Assistant<br>
       Mar. 2022 – Nov. 2022<br>
-      Supervisor: Prof <a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>Xiaoqing Lyu</a>
+      Supervisor: Prof <a href='https://www.icst.pku.edu.cn/cpdp/kydw/ggcy/1201884cpdp1297370.htm'>Xiaoqing Lyu</a>
     </td>
   </tr>
 </table>
@@ -333,6 +333,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+
 
 
 
