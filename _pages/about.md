@@ -77,7 +77,7 @@ $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
 
 -	**Guanren Qiao**, Sixu Lin, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu$^\dagger$
 -	SignBot: Learning Human-to-Humanoid Sign Language Interaction (*ICRA* 2026) 
-- [[paper]](https://arxiv.org/abs/2505.24266) [[code (Coming Soon)]] [[demo]](https://qiaoguanren.github.io/SignBot-demo/)
+- [[paper]](https://arxiv.org/abs/2505.24266) [[code]](https://github.com/qiaoguanren/Signbot) [[demo]](https://qiaoguanren.github.io/SignBot-demo/)
 
 </div>
 </div>
@@ -87,7 +87,7 @@ $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
 
 -	Sixu Lin, **Guanren Qiao**, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu$^\dagger$
 -	HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion (*ICLR* 2026)
-- [[paper]](https://arxiv.org/abs/2503.00923) [[code (Coming Soon)]] [[demo]](https://simonlinsx.github.io/HWC_Loco/)
+- [[paper]](https://arxiv.org/abs/2503.00923) [[code]](https://github.com/Simonlinsx/HWC_Loco/tree/main) [[demo]](https://simonlinsx.github.io/HWC_Loco/)
 
 </div>
 </div>
