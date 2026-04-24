@@ -22,7 +22,7 @@ redirect_from:
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Real-World Reinforcement Learning<br />
         ● Vision-Language-Action model in robotic manipulation<br />
-        ● Human-to-Humanoid Loco-Manipulation <br />
+        ● World Model as Value/Reward Model <br />
         ● AI Scientist System
 
 My work has been published in top-tier international AI conferences such as ICLR, ECCV, ICRA, and NeurIPS. Please feel free to communicate and cooperate via email or <a href="images/wechat.png">WeChat</a>.
@@ -293,7 +293,6 @@ document.addEventListener("DOMContentLoaded", function () {
 # 🏅 Honor
 - *2025.12*:  🏆 **Top 1.3%** (6/463) in the Tencent AI Arena Global Open Competition (Reinforcement Learning Embodied-AI Track) (<strong style="color:red;">CNY 15000</strong>)
 - *2024.11*   🏅 Duan Yong Ping Meritorious Research Award (<strong style="color:red;">CNY 5000</strong>)
-- *2024.11*   🏅 Duan Yong Ping Travel Award (<strong style="color:red;">CNY 10000</strong>)
 - *2022.12*   🏅 The Chinese University of Hong Kong Shenzhen Scholarship (<strong style="color:red;">CNY 6000</strong>)
 - *2021.10*   🏆 Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition (<strong style="color:red;">CNY 20000</strong>)
 - *2020-2022* 🏅 Beijing University of Posts and Telecommunications Merit Student (<strong style="color:red;">CNY 500</strong>)
@@ -333,7 +332,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 # 🖋️ Service
 - Conference Reviewer:
-  - AAAI (2024), ICLR (2025), ICCV (2025), NeurIPS (2025)
+  - AAAI (2024), ICLR (2025), ICCV (2025), NeurIPS (2025, 2026)
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
