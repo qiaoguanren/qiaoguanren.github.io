@@ -59,6 +59,8 @@ My work has been published in top-tier international AI conferences such as ICLR
 
 # 🔥 News
 
+● *2026.05*: 🎉 One paper about Human-in-the-loop Real-World Reinforcement Learning accepted by **ICML 2026**.  <br />
+● *2026.04*: 🎉 One paper about Agent Error Recovery for Robotic Manipulation accepted by **RSS 2026**.  <br />
 ● *2026.01*: 🎉 One paper about Sim-to-Real human-robot interaction accepted by **ICRA 2026**.  <br />
 ● *2026.01*: 🎉 One paper about Sim-to-Real reinforcement learning humanoid locomotion accepted by **ICLR 2026**.  <br />
 ● *2025.12*: 🎉 **Top 1.3%** (6/463) in the Tencent AI Arena Global Open Competition (Reinforcement Learning Embodied-AI Track). <br />
@@ -71,6 +73,16 @@ My work has been published in top-tier international AI conferences such as ICLR
 # 📝 Selected Publications
 
 $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/FTC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	**Guanren Qiao**, Ruixiang Ouyang, Sheng Xu, Ruixing Jin, Yueci Deng, Yunxin Tai, Kui Jia, Guiliang Liu$^\dagger$
+-	Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning (*ICML* 2026) 
+- [[paper]]() [[code]]() [[demo]]()
+  
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/SignBot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -154,6 +166,8 @@ $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
 <h4 style="text-align: center; color: #4a5568; font-size: 1.2em; margin-bottom: 1em; border-bottom: 2px solid #cbd5e0; padding-bottom: 0.5em; display: inline-block; width: 100%;">🎯 2026</h4>
 
 <ul style="line-height: 1.8; text-align: justify;">
+<li><strong>Guanren Qiao</strong>, Ruixiang Ouyang, Sheng Xu, Ruixing Jin, Yueci Deng, Yunxin Tai, Kui Jia, Guiliang Liu$^\dagger$, <a href="">Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning</a>, <strong>ICML 2026</strong></li>
+<li>Sheng Xu, Ruixing Jin, Huayi Zhou, Bo Yue, <strong>Guanren Qiao</strong>, Yunxin Tai, Yueci Deng, Kui Jia, Guiliang Liu$^\dagger$, <a href="">From Reaction to Anticipation: Proactive Failure Recovery through Agentic Task Graph for Robotic Manipulation</a>, <strong>RSS 2026</strong></li>
 <li><strong>Guanren Qiao</strong>, Sixu Lin, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2505.24266">SignBot: Learning Human-to-Humanoid Sign Language Interaction</a>, <strong>ICRA 2026</strong></li>
 <li>Sixu Lin, <strong>Guanren Qiao</strong>, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2503.00923">HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion</a>, <strong>ICLR 2026</strong></li>
 </ul>
