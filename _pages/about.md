@@ -25,7 +25,7 @@ redirect_from:
         ● World Model as Value/Reward Model <br />
         ● AI Scientist System
 
-My work has been published in top-tier international AI conferences such as ICLR, ECCV, ICRA, and NeurIPS. Please feel free to communicate and cooperate via email or <a href="images/wechat.png">WeChat</a>.
+My work has been published in top-tier international AI conferences such as ICLR, ICML, and NeurIPS. Please feel free to communicate and cooperate via email or <a href="images/wechat.png">WeChat</a>.
 
 # 📖 Educations
 <table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
