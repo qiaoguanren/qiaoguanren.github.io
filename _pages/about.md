@@ -79,7 +79,7 @@ $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
 
 -	**Guanren Qiao**, Ruixiang Ouyang, Sheng Xu, Ruixing Jin, Yueci Deng, Yunxin Tai, Kui Jia, Guiliang Liu$^\dagger$
 -	Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning (*ICML* 2026) 
-- [[paper]]() [[code]]() [[demo]]()
+- [[paper]]() [[code]]() [[demo]](https://edem-ai.github.io/FTC-website/)
   
 </div>
 </div>
@@ -306,6 +306,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 # 🏅 Honor
 - *2025.12*:  🏆 **Top 1.3%** (6/463) in the Tencent AI Arena Global Open Competition (Reinforcement Learning Embodied-AI Track) (<strong style="color:red;">CNY 15000</strong>)
+- *2024.11*   🏅 Duan Yong Ping Meritorious Travel Award (<strong style="color:red;">CNY 10000</strong>)
 - *2024.11*   🏅 Duan Yong Ping Meritorious Research Award (<strong style="color:red;">CNY 5000</strong>)
 - *2022.12*   🏅 The Chinese University of Hong Kong Shenzhen Scholarship (<strong style="color:red;">CNY 6000</strong>)
 - *2021.10*   🏆 Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition (<strong style="color:red;">CNY 20000</strong>)
