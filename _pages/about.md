@@ -58,6 +58,7 @@ My work has been published in top-tier international AI conferences such as ICLR
 
 # 🔥 News
 
+● *2026.07*: 🎉 One paper about Safety-critical scenario generation accepted by **IEEE Transactions on Artificial Intelligence**.  <br />
 ● *2026.06*: 🎉 Two papers about Sim2Real locomotion and robotic skill reuse accepted by **IROS 2026**.  <br />
 ● *2026.05*: 🎉 One paper about Human-in-the-loop Real-World Reinforcement Learning accepted by **ICML 2026**.  <br />
 ● *2026.04*: 🎉 One paper about Agent Error Recovery for Robotic Manipulation accepted by **RSS 2026**.  <br />
@@ -108,7 +109,7 @@ $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guorui Quan, Jiawei Yu, Shujun Jia$^\dagger$, Guiliang Liu$^\dagger$
--	TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles (Under Review) 
+-	TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles (IEEE Transactions on Artificial Intelligence) 
 - [[paper]](https://arxiv.org/abs/2408.15538) [[code]](https://github.com/qiaoguanren/TrafficGamer) [[demo]](https://qiaoguanren.github.io/trafficgamer-demo/)
 
 </div>
@@ -191,7 +192,7 @@ $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
 <h4 style="text-align: center; color: #4a5568; font-size: 1.2em; margin-bottom: 1em; border-bottom: 2px solid #cbd5e0; padding-bottom: 0.5em; display: inline-block; width: 100%;">🎯 2024</h4>
 
 <ul style="line-height: 1.8; text-align: justify;">
-<li><strong>Guanren Qiao</strong>, Guorui Quan, Jiawei Yu, Shujun Jia$^\dagger$, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2408.15538">TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles</a>, <strong>Under Review</strong></li>
+<li><strong>Guanren Qiao</strong>, Guorui Quan, Jiawei Yu, Shujun Jia$^\dagger$, Guiliang Liu$^\dagger$, <a href="https://arxiv.org/abs/2408.15538">TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles</a>, <strong>IEEE Transactions on Artificial Intelligence</strong></li>
 <li><strong>Guanren Qiao</strong>, Guorui Quan, Rongxiao Qu, Guiliang Liu$^\dagger$, <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05085.pdf">Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model</a>, <strong>ECCV 2024</strong></li>
 </ul>
 </div>
