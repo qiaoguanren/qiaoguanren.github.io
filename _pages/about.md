@@ -105,7 +105,7 @@ $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TrafficGamer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Artificial Intelligence</div><img src='images/TrafficGamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Guanren Qiao**, Guorui Quan, Jiawei Yu, Shujun Jia$^\dagger$, Guiliang Liu$^\dagger$
