@@ -58,6 +58,7 @@ My work has been published in top-tier international AI conferences such as ICLR
 
 # 🔥 News
 
+● *2026.07*: 🎉 Made significant contributions to [[Dexforce]](https://dexforce.com/) core product, DexEchain version 0.1.5 (open-source version: [![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)](https://github.com/DexForce/EmbodiChain)).  <br />
 ● *2026.07*: 🎉 One paper about Safety-critical scenario generation accepted by **IEEE Transactions on Artificial Intelligence**.  <br />
 ● *2026.06*: 🎉 Two papers about Sim2Real locomotion and robotic skill reuse accepted by **IROS 2026**.  <br />
 ● *2026.05*: 🎉 One paper about Human-in-the-loop Real-World Reinforcement Learning accepted by **ICML 2026**.  <br />
@@ -308,6 +309,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honor
+- *2026.06*:  🏅 JingDong TGT (Tech Genius Team) Internship
 - *2025.12*:  🏆 **Top 1.3%** (6/463) in the Tencent AI Arena Global Open Competition (Reinforcement Learning Embodied-AI Track) (<strong style="color:red;">CNY 15000</strong>)
 - *2024.11*   🏅 Duan Yong Ping Meritorious Travel Award (<strong style="color:red;">CNY 10000</strong>)
 - *2024.11*   🏅 Duan Yong Ping Meritorious Research Award (<strong style="color:red;">CNY 5000</strong>)
@@ -327,7 +329,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <td style="border:none; padding:0;">
       <b>DexForce Technology, China</b><br>
       Embodied-AI Research Intern<br>
-      Aug. 2025 – Present
+      Aug. 2025 – July 2026
     </td>
   </tr>
 </table>
@@ -350,7 +352,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 # 🖋️ Service
 - Conference Reviewer:
-  - AAAI (2024), ICLR (2025), ICCV (2025), NeurIPS (2025, 2026)
+  - AAAI (2024, 2026), ICLR (2025), ICCV (2025), NeurIPS (2025, 2026)
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
