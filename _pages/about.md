@@ -58,7 +58,7 @@ My work has been published in top-tier international AI conferences such as ICLR
 
 # 🔥 News
 
-● *2026.07*: 🎉 Made significant contributions to [[Dexforce]](https://dexforce.com/) core product, DexEchain version 0.1.5 (open-source version: [![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)](https://github.com/DexForce/EmbodiChain)).  <br />
+● *2026.07*: 🎉 Made significant contributions to [[Dexforce]](https://dexforce.com/) core product, DexEchain version 0.1.5 (open-source version: [![GitHub stars](https://img.shields.io/github/stars/EmbodiChain/REPO?style=social)](https://github.com/DexForce/EmbodiChain)).  <br />
 ● *2026.07*: 🎉 One paper about Safety-critical scenario generation accepted by **IEEE Transactions on Artificial Intelligence**.  <br />
 ● *2026.06*: 🎉 Two papers about Sim2Real locomotion and robotic skill reuse accepted by **IROS 2026**.  <br />
 ● *2026.05*: 🎉 One paper about Human-in-the-loop Real-World Reinforcement Learning accepted by **ICML 2026**.  <br />
