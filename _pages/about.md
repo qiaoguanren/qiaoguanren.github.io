@@ -16,8 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-**Working Experience and Education**: Now I study at the <a href="https://www.cuhk.edu.cn/en">School of Data Science, Chinese University of Hong Kong, Shenzhen</a> (CUHK-SZ)
-, as a computer science Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the <a href="https://www.bupt.edu.cn/">School of Computer Science and Technology, Beijing University of Posts and Telecommunications</a> (BUPT). I am currently interning at JD Technology.
+**Working Experience and Education**: Now I study at the <a href="https://www.cuhk.edu.cn/en">School of Data Science, Chinese University of Hong Kong, Shenzhen</a> (CUHK-SZ), as a computer science Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the <a href="https://www.bupt.edu.cn/">School of Computer Science and Technology, Beijing University of Posts and Telecommunications</a> (BUPT). I am currently interning at JD Technology.
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Real-World Reinforcement Learning<br />
@@ -59,7 +58,6 @@ My work has been published in top-tier international AI conferences such as ICLR
 
 # 🔥 News
 
-● *2026.07*: 🎉 Made significant contributions to [[DexForce]](https://dexforce.com/) core product, **DexEChain** version 0.1.5 (open-source version: [![GitHub stars](https://img.shields.io/github/stars/DexForce/EmbodiChain?style=social)](https://github.com/DexForce/EmbodiChain)).  <br />
 ● *2026.07*: 🎉 One paper about Safety-critical scenario generation accepted by **IEEE Transactions on Artificial Intelligence**.  <br />
 ● *2026.06*: 🎉 Get **JingDong TGT (Tech Genius Team)** Internship offer.  <br />
 ● *2026.06*: 🎉 Two papers about Sim2Real locomotion and robotic skill reuse accepted by **IROS 2026**.  <br />
@@ -370,6 +368,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing
+  - IEEE Transactions on Multimedia (T-MM)
 
 
 
