@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-**Working Experience and Education**: Now I study at the <a href="https://www.cuhk.edu.cn/en">School of Data Science, Chinese University of Hong Kong, Shenzhen</a> (CUHK-SZ), as a computer science Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the <a href="https://www.bupt.edu.cn/">School of Computer Science and Technology, Beijing University of Posts and Telecommunications</a> (BUPT). I am currently interning at JD Technology.
+**Working Experience and Education**: Now I study at the <a href="https://www.cuhk.edu.cn/en">School of Data Science, Chinese University of Hong Kong, Shenzhen</a> (CUHK-SZ), as a computer science fourth-year PhD candidate under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the <a href="https://www.bupt.edu.cn/">School of Computer Science and Technology, Beijing University of Posts and Telecommunications</a> (BUPT). I am currently interning at JD Technology.
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Real-World Reinforcement Learning<br />
@@ -322,7 +322,7 @@ document.addEventListener("DOMContentLoaded", function () {
 # 💻 Intern
 <table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
   <tr style="border:none;">
-    <td width="200" align="left" style="border:none; padding:0 16px 0 0;">
+    <td width="200" align="left" style="border:none; padding:0 16px 10px 0;">
       <img src="images/JD.jpg" width="200"/>
     </td>
     <td style="border:none; padding:0;">
@@ -367,7 +367,7 @@ document.addEventListener("DOMContentLoaded", function () {
   - AAAI (2024, 2026), ICLR (2025), ICCV (2025), NeurIPS (2025, 2026)
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
-  - Robotics and Computer-Integrated Manufacturing
+  - Robotics and Computer-Integrated Manufacturing (RCIM)
   - IEEE Transactions on Multimedia (T-MM)
 
 
