@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 **Working Experience and Education**: Now I study at the <a href="https://www.cuhk.edu.cn/en">School of Data Science, Chinese University of Hong Kong, Shenzhen</a> (CUHK-SZ)
-, as a computer science Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the <a href="https://www.bupt.edu.cn/">School of Computer Science and Technology, Beijing University of Posts and Telecommunications</a> (BUPT). 
+, as a computer science Ph.D. student under the supervision of Prof <a href='https://guiliang.me/'>Guiliang Liu</a>. I have received my Bachelor's degree from the <a href="https://www.bupt.edu.cn/">School of Computer Science and Technology, Beijing University of Posts and Telecommunications</a> (BUPT). I am currently interning at JD Technology.
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Real-World Reinforcement Learning<br />
@@ -322,6 +322,19 @@ document.addEventListener("DOMContentLoaded", function () {
 <span class='anchor' id='-xshy'></span>
 
 # 💻 Intern
+<table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
+  <tr style="border:none;">
+    <td width="200" align="left" style="border:none; padding:0 16px 0 0;">
+      <img src="images/JD.jpg" width="200"/>
+    </td>
+    <td style="border:none; padding:0;">
+      <b>JD Technology, China</b><br>
+      Embodied-AI Algorithm Intern<br>
+      Aug. 2026 – Now
+    </td>
+  </tr>
+</table>
+
 <table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
   <tr style="border:none;">
     <td width="200" align="left" style="border:none; padding:0 16px 0 0;">
