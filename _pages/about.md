@@ -20,8 +20,7 @@ redirect_from:
 
 **Research Interests**: Reinforcement Learning and the related topics, including: <br />
         ● Real-World Reinforcement Learning<br />
-        ● Vision-Language-Action model in robotic manipulation<br />
-        ● AI Scientist Agent System<br />
+        ● Embodied Agent System<br />
         ● Humanoid Loco-manipulation
 
 My work has been published in top-tier international AI conferences such as ICLR, ICML, and NeurIPS. Please feel free to communicate and cooperate via email or <a href="images/wechat.png">WeChat</a>.
@@ -58,6 +57,7 @@ My work has been published in top-tier international AI conferences such as ICLR
 
 # 🔥 News
 
+● *2026.09*: 🎉 One paper about Human-in-the-loop Real-World Reinforcement Learning accepted by **NeurIPS 2026**.  <br />
 ● *2026.07*: 🎉 One paper about Safety-critical scenario generation accepted by **IEEE Transactions on Artificial Intelligence**.  <br />
 ● *2026.06*: 🎉 Get **JingDong TGT (Tech Genius Team)** Internship offer.  <br />
 ● *2026.06*: 🎉 Two papers about Sim2Real locomotion and robotic skill reuse accepted by **IROS 2026**.  <br />
@@ -74,6 +74,16 @@ My work has been published in top-tier international AI conferences such as ICLR
 # 📝 Selected Publications
 
 $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/S2C.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	**Guanren Qiao**, Ruixiang Ouyang, Sheng Xu, Yueci Deng, Yunxin Tai, Kui Jia, Guiliang Liu $^\dagger$
+-	Semantics-to-Contact: A Stagewise Framework for Robust Contact-Rich Manipulation (*NeurIPS* 2026) 
+- [[paper]](https://openreview.net/pdf?id=gUco1fy8uO) [[code]]() [[demo]](https://edem-ai.github.io/S2C/)
+  
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/FTC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -167,6 +177,7 @@ $*$ denotes equal contribiton, $\dagger$ denotes corresponding author
 <h4 style="text-align: center; color: #4a5568; font-size: 1.2em; margin-bottom: 1em; border-bottom: 2px solid #cbd5e0; padding-bottom: 0.5em; display: inline-block; width: 100%;">🎯 2026</h4>
 
 <ul style="line-height: 1.8; text-align: justify;">
+<li><strong>Guanren Qiao</strong>, Ruixiang Ouyang, Sheng Xu, Yueci Deng, Yunxin Tai, Kui Jia, Guiliang Liu$^\dagger$, <a href="">Semantics-to-Contact: A Stagewise Framework for Robust Contact-Rich Manipulation</a>, <strong>NeurIPS 2026</strong></li>
 <li>Sixu Lin, Ruixing Jin, <strong>Guanren Qiao</strong>, Ruixiang Ouyang, Shuliang He, Guiliang Liu$^\dagger$, <a href="">CAMoE: Context-Aware MoE Policy for Adaptive and Scalable Quadruped Locomotion</a>, <strong>IROS 2026</strong></li>
 <li>Hengming Zhang, Ruiyan Xu, Bo Yue, Shuliang He, <strong>Guanren Qiao</strong>, Guiliang Liu$^\dagger$, <a href="">PROMPT: PRObabilistic Memory Trees for Efficient Skill Reuse in Robotics</a>, <strong>IROS 2026</strong></li>
 <li><strong>Guanren Qiao</strong>, Ruixiang Ouyang, Sheng Xu, Ruixing Jin, Yueci Deng, Yunxin Tai, Kui Jia, Guiliang Liu$^\dagger$, <a href="">Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning</a>, <strong>ICML 2026</strong></li>
@@ -308,9 +319,9 @@ document.addEventListener("DOMContentLoaded", function () {
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honor
+- *2026.08*   🏅 Duan Yong Ping Meritorious Travel Award (<strong style="color:red;">CNY 10000</strong>)
 - *2026.06*:  🏅 JingDong TGT (Tech Genius Team) Internship
 - *2025.12*:  🏆 **Top 1.3%** (6/463) in the Tencent AI Arena Global Open Competition (Reinforcement Learning Embodied-AI Track) (<strong style="color:red;">CNY 15000</strong>)
-- *2024.11*   🏅 Duan Yong Ping Meritorious Travel Award (<strong style="color:red;">CNY 10000</strong>)
 - *2024.11*   🏅 Duan Yong Ping Meritorious Research Award (<strong style="color:red;">CNY 5000</strong>)
 - *2022.12*   🏅 The Chinese University of Hong Kong Shenzhen Scholarship (<strong style="color:red;">CNY 6000</strong>)
 - *2021.10*   🏆 Gold Prize, China Internet Plus Innovation and Entrepreneurship National Competition (<strong style="color:red;">CNY 20000</strong>)
@@ -364,7 +375,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 # 🖋️ Service
 - Conference Reviewer:
-  - AAAI (2024, 2026), ICLR (2025), ICCV (2025), NeurIPS (2025, 2026)
+  - AAAI (2024, 2026), ICLR (2026), ICCV (2025), NeurIPS (2025, 2026), ICRA (2026)
 - Journal Reviewer:
   - IEEE Transactions on Artificial Intelligence (T-AI)
   - Robotics and Computer-Integrated Manufacturing (RCIM)
